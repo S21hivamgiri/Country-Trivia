@@ -1,0 +1,85 @@
+?- consult(base).
+true.
+
+?- start.
+	Holla! I can guess the country you are thinking with its characterstics in minimum steps
+	-----
+	---
+	------
+	Does the countries you thought is a_non_uno_member? n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_northen_america? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_europe? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is an_island? |: n.
+
+	-----
+	---
+	------
+	
+	Does the countries you thought is in_central_america? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_south_america? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_arab_country? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_indochina? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_south_east_asia? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_both_asia_and_europe? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_soviet_union? |: n.
+
+	-----
+	---
+	------
+	Does the countries you thought is in_asia? |: y.
+
+	-----
+	---
+	------
+	Does the countries you thought is is_a_country_with_largest_population? |: y.
+
+
+	------
+	----------
+	----
+	-----Guessing-------
+	------
+	I guess that the country is: 
+	china
+	----------------------------------------------------------------------
+
+	China 
+	----------------------------------------------------------------------
+	Made with ❤ by Shivam Kumar Giri|NIT Puducherry
+true.
